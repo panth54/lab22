@@ -1,4 +1,6 @@
-// Please include header (lab22.h) here.
+#include <iostream>
+#include "lab22.h"
+using namespace std;
 
 int main(){
 	srand(time(0));
